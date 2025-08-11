@@ -4,16 +4,15 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Evelyn Vitória Caetano Maestre
+Matricula: 898742
 
 ## Tela de inspeção com navegador
-
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Inspeção navegador](images/PrintChrome.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![Replit](images/PrintReplit.png)
 
 
 ## Orientações sobre Linguagem MarkDown
